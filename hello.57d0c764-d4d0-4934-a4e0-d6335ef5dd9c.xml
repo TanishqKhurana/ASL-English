@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.57d0c764-d4d0-4934-a4e0-d6335ef5dd9c.jpg</filename>
+	<path>C:\Users\prana\OneDrive\Documents\slt\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello.57d0c764-d4d0-4934-a4e0-d6335ef5dd9c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thankyou</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>294</ymin>
+			<xmax>354</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>
